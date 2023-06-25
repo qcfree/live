@@ -176,6 +176,7 @@ http://120.84.96.82:808/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳台",莲花卫视
 https://cntv.sbs/lhws?auth=230612
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
+https://cntv.sbs/fs?id=fhhk&auth=230612
 #EXTINF:-1 group-title="港澳台",J2台
 https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 #EXTINF:-1 group-title="港澳台",香港卫视
@@ -186,7 +187,6 @@ http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 group-title="影视频道",华语影院
 https://cntv.sbs/live?auth=230612&id=hyyy
-https://cntv.sbs/fs?id=fhhk&auth=230612
 #EXTINF:-1 group-title="测试频道",日·NHK
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="测试频道",日·QVC
