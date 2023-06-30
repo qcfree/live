@@ -193,6 +193,8 @@ http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 group-title="影视频道",华语影院
 https://cntv.sbs/live?auth=230612&id=hyyy
+#EXTINF:-1 group-title="影视频道",东森电影台
+mitv://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128
 #EXTINF:-1 group-title="测试频道",日·NHK
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="测试频道",日·QVC
