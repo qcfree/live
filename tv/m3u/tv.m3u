@@ -182,6 +182,8 @@ mitv://generationnexxxt.com:19806/bfcce4097e7b43c0affa24d6ec263175
 mitv://generationnexxxt.com:19806/7e72c3e7a1584bc096789ccd40162bc4
 #EXTINF:-1 group-title="影视频道",华语影院
 https://cntv.sbs/live?auth=230612&id=hyyy
+#EXTINF:-1 group-title="影视频道",凤凰电影
+https://cntv.sbs/live?auth=230612&id=fhdy
 #EXTINF:-1 group-title="影视频道",东森电影
 http://120.84.96.82:808/hls/32/index.m3u8
 #EXTINF:-1 group-title="影视频道",东森电影台
