@@ -186,6 +186,11 @@ https://cntv.sbs/live?auth=230612&id=hyyy
 https://cntv.sbs/live?auth=230612&id=fhdy
 #EXTINF:-1 group-title="影视频道",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="影视频道",峨眉电影
+http://r.jdshipin.com/XIjta
+http://livehkkp.chinamcache.com/live/emdygqH265_4000.m3u8
+#EXTINF:-1 group-title="影视频道",峨眉电影.备用
+http://r.jdshipin.com/vFgDS
 #EXTINF:-1 group-title="影视频道",东森电影
 http://120.84.96.82:808/hls/32/index.m3u8
 #EXTINF:-1 group-title="影视频道",东森电影台
