@@ -147,6 +147,7 @@ RTHK32,http://sc2022.stream-link.org/tv2306.php?id=h09
 香港开电视资讯台,http://sc2022.stream-link.org/tv2306.php?id=h14
 东森新闻,http://sc2022.stream-link.org/tv2306.php?id=t01
 东森幼幼台,P2p://135.148.104.228:19806/23305327c764422e9747ab09a6edee43
+东森戏剧台,P2p://135.148.104.228:19806/d447dc4d5ddf4417941b271bf5da4263
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 TVBS新闻台,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
