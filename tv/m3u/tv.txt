@@ -99,8 +99,10 @@ CMusic,mitv://generationnexxxt.com:19806/7e72c3e7a1584bc096789ccd40162bc4
 峨眉电影.备用,http://r.jdshipin.com/vFgDS
 NewTV动作电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225671/index.m3u8
 东森电影,http://120.84.96.82:808/hls/32/index.m3u8
-东森电影台,mitv://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128
-P2p://135.148.104.228:19806/c4890d819ae5497db49b4f13a019e128
+东森电影,mitv://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128
+东森电影,P2p://135.148.104.228:19806/c4890d819ae5497db49b4f13a019e128
+龙祥电影,P2p://135.148.104.228:19806/644b663d0002f2fe285c32b00e0f46ef
+卫视电影台,P2p://135.148.104.228:19806/e6614f107c924a868360f724bf10f9d8
 凤凰电影,mitv://generationnexxxt.com:19806/2df8c6787b0a4f08bee3dcccd49aef8b
 亚洲剧台,mitv://generationnexxxt.com:19806/9d60d2f9f6fa4a368fbe457f8efad108
 功夫台,mitv://generationnexxxt.com:19806/645b3c4f000b82ea663876002bf2462a
