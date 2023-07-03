@@ -126,6 +126,11 @@ TVB星河(粤),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a570
 华语电影,http://epg.112114.xyz/douyu/3928
 麓山迷踪,http://epg.112114.xyz/douyu/4505431
 豆瓣电影,http://epg.112114.xyz/douyu/8770422
+林正英电影1,http://epg.112114.xyz/douyu/218859
+林正英电影2,http://epg.112114.xyz/douyu/7356023
+刘德华电影1,http://epg.112114.xyz/douyu/2516864
+刘德华电影2,http://epg.112114.xyz/douyu/8985415
+变种人电影,http://epg.112114.xyz/douyu/9651304
 【贝爷MAX厅】科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
 贝爷影厅1,http://epg.112114.xyz/douyu/252802
 贝爷影厅2,http://epg.112114.xyz/douyu/36337
