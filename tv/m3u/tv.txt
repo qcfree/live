@@ -30,7 +30,8 @@ CHC高清电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/
 CHC家庭影院,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 CHC动作电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-峨眉电影,http://60.255.49.202/live/emdygqH265_4000
+峨眉电影,60.255.49.202/live/emdygqH265_4000
+峨眉电影台:http://239.93.5.116:8696
 卫视,#genre#
 北京卫视,https://cntv.sbs/live?auth=230612&id=bjws
 东方卫视,https://cntv.sbs/live?auth=230612&id=dfws
