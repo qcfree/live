@@ -1806,7 +1806,8 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 看美剧,http://maomao.kandiantv.cn/douyu1.php?id=8869614
 动漫直播,http://maomao.kandiantv.cn/douyu1.php?id=1487654
 虎牙,#genre#
-周星驰[1],https://epg.112114.xyz/huya/11342412
+周星驰,https://epg.112114.xyz/huya/11342412
+周星驰,https://live.goodiptv.club/api/huya.php?id=11342412
 林正英[4],https://epg.112114.xyz/huya/11342421
 港台电影[5],https://epg.112114.xyz/huya/880261
 欧美娱乐[6],https://epg.112114.xyz/huya/21059574
