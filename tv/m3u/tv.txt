@@ -2261,8 +2261,8 @@ chc家庭影院,http://gg.gg/14f5c7
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
 CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
-华语影院,https://cntv.sbs/live?auth=230612&id=hyyy
-凤凰电影,https://cntv.sbs/live?auth=230612&id=fhdy
+华语影院,https://cntv.sbs/live?auth=2307100804&id=hyyy
+凤凰电影,https://cntv.sbs/live?auth=2307100804&id=fhdy
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 峨眉电影,http://r.jdshipin.com/XIjta
 峨眉电影.备用,http://r.jdshipin.com/vFgDS
@@ -2522,9 +2522,9 @@ orange,http://epg.112114.xyz/douyu/4549169
 翡翠台(华丽台),mitv://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
 18台,mitv://generationnexxxt.com:19806/5b5b0e8be20b431281382660b7d67906
 PHK31,mitv://generationnexxxt.com:19806/5c7ff8bb2e0349cdab492d5aea25ff3c
-莲花卫视,https://cntv.sbs/lhws?auth=230612
+莲花卫视,https://cntv.sbs/lhws?auth=2307100804
 凤凰中文,https://dispatch.ulivetv.net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&timestamp=1686276351&rand=LJ9wX3x29g&uuid=9b647b3816b2a66a&from=web&sign=941de40e58692774205a9ced5f746313
-凤凰香港,https://cntv.sbs/fs?id=fhhk&auth=230612
+凤凰香港,https://cntv.sbs/fs?id=fhhk&auth=2307100804
 J2台,http://sc2022.stream-link.org/tv2306.php?id=h03
 无线新闻台,http://sc2022.stream-link.org/tv2306.php?id=h04
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
