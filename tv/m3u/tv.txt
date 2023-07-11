@@ -637,7 +637,7 @@ CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 上视新闻,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
 上海纪实,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-东方影视,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
+东方https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 上视外语,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
 七彩戏剧,https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
@@ -755,7 +755,7 @@ CETV-4,https://live.goodiptv.club/api/cqyx.php?id=cetv-4SD
 高尔夫网球,https://live.goodiptv.club/api/cqyx.php?id=golfHD
 早期教育,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
 重庆新闻,https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
-重庆影视,https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
+重庆https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
 重庆社会与法,https://live.goodiptv.club/api/cqyx.php?id=CQTVTrendyHD
 重庆时尚生活,https://live.goodiptv.club/api/cqyx.php?id=cqssgwHD
 重庆文体娱乐,https://live.goodiptv.club/api/cqyx.php?id=cqwtylHD
@@ -890,7 +890,7 @@ DOXTV,https://live.goodiptv.club/api/yqgd.php?id=doxtv
 山西经济与科教,https://live.goodiptv.club/api/yqgd.php?id=sxjjkj
 山西社会与法治,https://live.goodiptv.club/api/yqgd.php?id=sxshfz
 山西文体生活,https://live.goodiptv.club/api/yqgd.php?id=sxwtsh
-山西影视,https://live.goodiptv.club/api/yqgd.php?id=sxys
+山西https://live.goodiptv.club/api/yqgd.php?id=sxys
 山西黄河,https://live.goodiptv.club/api/yqgd.php?id=sxhh
 山西导视,https://live.goodiptv.club/api/yqgd.php?id=sxds
 阳泉新闻综合HD,https://live.goodiptv.club/api/yqgd.php?id=yqxwzhhd
@@ -1045,7 +1045,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 北京冬奥,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
 北京冬奥,http://39.135.138.59:18890/PLTV/88888910/224/3221225675/index.m3u8
 北京冬奥,http://39.135.138.60:18890/PLTV/88888910/224/3221225676/index.m3u8
-吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
+吉林http://stream1.jlntv.cn/yspd/sd/live.m3u8
 吉林乡村,http://stream1.jlntv.cn/xcpd/sd/live.m3u8
 晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 晋中综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
@@ -1541,7 +1541,7 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 吟笑扒片,http://epg.112114.xyz/douyu/2987100
 电影讲解2,http://epg.112114.xyz/douyu/2758565
 点歌搞笑,http://epg.112114.xyz/douyu/3870925
-橙子影视,http://epg.112114.xyz/douyu/4549169
+橙子http://epg.112114.xyz/douyu/4549169
 恐怖电影讲解,http://epg.112114.xyz/douyu/8867878
 经典武侠,http://epg.112114.xyz/douyu/7655471
 港片1,http://epg.112114.xyz/douyu/4290711
@@ -1948,7 +1948,7 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 潘金莲武松,http://maomao.kandiantv.cn/douyu1.php?id=8986636
 热血动漫,http://maomao.kandiantv.cn/douyu1.php?id=206858
 凛冬之地,http://maomao.kandiantv.cn/douyu1.php?id=8945323
-高分影视,http://maomao.kandiantv.cn/douyu1.php?id=1735337
+高分http://maomao.kandiantv.cn/douyu1.php?id=1735337
 变成了一颗苹果~,http://maomao.kandiantv.cn/douyu1.php?id=4396972
 看美剧,http://maomao.kandiantv.cn/douyu1.php?id=8869614
 动漫直播,http://maomao.kandiantv.cn/douyu1.php?id=1487654
@@ -2301,7 +2301,7 @@ CHC动作电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002055/index.m
 CHC高清电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 女神经典,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+星光http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 东森电影,http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8
 龙祥电影.http://lcx-olt.8866.org:8181/tsfile/live/1077_1.m3u8
 豆瓣电影,http://epg.112114.xyz/douyu/8770422
@@ -2364,6 +2364,7 @@ chc家庭影院,http://gg.gg/14f5c7
 高能烧脑时刻,http://gg.gg/14f5fg
 高能烧脑时刻,http://gg.gg/14f5fj
 影视,#genre#
+HBO原创巨献,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 HBO温馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 CHC高清电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
