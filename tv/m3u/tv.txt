@@ -2364,6 +2364,10 @@ chc家庭影院,http://gg.gg/14f5c7
 高能烧脑时刻,http://gg.gg/14f5fg
 高能烧脑时刻,http://gg.gg/14f5fj
 影视,#genre#
+HBO,http://208.115.225.174:14165
+HBO 2,http://208.115.225.174:14140
+HBO Mundi,http://208.115.225.174:14148
+HBO signature,http://208.115.225.174:14160
 HBO强档巨献,http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO原创巨献,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
