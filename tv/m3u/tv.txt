@@ -2368,6 +2368,7 @@ CHC高清电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/
 CHC家庭影院,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 CHC动作电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 金马影院,hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+峨眉电影0,http://182.151.211.171:808/hls/58/index.m3u8
 峨眉电影1,http://60.255.49.202/live/emdygqH265_4000
 峨眉电影2,http://239.93.5.116:8696
 峨眉电影4K3,http://111.6.169.89/live.rxip.sc96655.com/live/emdy4k_8000.m3u8
