@@ -2364,6 +2364,7 @@ chc家庭影院,http://gg.gg/14f5c7
 高能烧脑时刻,http://gg.gg/14f5fg
 高能烧脑时刻,http://gg.gg/14f5fj
 影视,#genre#
+东森电影0,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 HBO,http://208.115.225.174:14165
 HBO 2,http://208.115.225.174:14140
 HBO Mundi,http://208.115.225.174:14148
