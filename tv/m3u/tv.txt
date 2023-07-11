@@ -1567,7 +1567,7 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 演唱会,http://epg.112114.xyz/douyu/7537296
 小涛讲电影,http://epg.112114.xyz/douyu/8415464
 港片电视剧1,http://epg.112114.xyz/douyu/5522351
-解说影视剧,http://epg.112114.xyz/douyu/562225
+解说剧,http://epg.112114.xyz/douyu/562225
 斗鱼电影115,http://epg.112114.xyz/douyu/223521
 电影解说7,http://epg.112114.xyz/douyu/8651489
 斗鱼电影118,http://epg.112114.xyz/douyu/4631599
@@ -2364,6 +2364,7 @@ chc家庭影院,http://gg.gg/14f5c7
 高能烧脑时刻,http://gg.gg/14f5fg
 高能烧脑时刻,http://gg.gg/14f5fj
 影视,#genre#
+HBO温馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 CHC高清电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
