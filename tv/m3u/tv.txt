@@ -2379,6 +2379,7 @@ CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC161451981614
 天映经典,http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 BesTV電影39,https://bp-caster.bestv.com.cn/127/3/video.m3u8
 东森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+东森洋片0,http://162.19.247.76:22222/live/dsypt/index.m3u8
 东森电影0,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 HBO,http://208.115.225.174:14165
 HBO 2,http://208.115.225.174:14140
