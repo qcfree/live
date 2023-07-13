@@ -249,6 +249,9 @@ CLASSICA 古典乐,mitv://generationnexxxt.com:19806/bfcce4097e7b43c0affa24d6ec2
 CMusic,mitv://generationnexxxt.com:19806/7e72c3e7a1584bc096789ccd40162bc4
 陈翔六点半,https://epg.112114.xyz/douyu/2132902
 斗鱼,#genre#
+韩国电影1,https://epg.pw/stream/4dc4e83c56bc5e0543b15f0cdfc80e24eac36ef307def73ce8aa62385cac2794.m3u8
+韩国电影2,https://epg.pw/stream/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8
+韩国电影3,https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
 周星驰,https://epg.pw/stream/e42d0e76c95238420a587a08185c276e0e9a46df0a77d3e5865efd8e8b75aeb0.ctv
 斗鱼电影4K,http://epg.112114.xyz/douyu/9249162
 斗鱼电影HD1,http://epg.112114.xyz/douyu/4246519
